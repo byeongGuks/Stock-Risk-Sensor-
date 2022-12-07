@@ -14,3 +14,5 @@ data/
 *.vcf
 *.xml
 *.xlsx
+
+simple_mlp_net_epoch100
