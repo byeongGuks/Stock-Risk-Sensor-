@@ -14,5 +14,7 @@ data/
 *.vcf
 *.xml
 *.xlsx
+*.pth
 
 simple_mlp_net_epoch100
+history/mlp_net_checkpoint9.pth
